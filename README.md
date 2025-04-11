@@ -1,2 +1,2 @@
-# Tradu-o---Livro
-Tradução do livro de redes de computadores
+# Livro de Sistemas Operacionais
+@alanveloso
